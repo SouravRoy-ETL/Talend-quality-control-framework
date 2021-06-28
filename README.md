@@ -14,7 +14,7 @@ For Unix Users (CronTab) -
 01 04 1 1 1 /usr/bin/somedirectory/main.py
 
 For Windows Users -
-Step 1 : start C:\Users\userX\Python.exe C:\Users\Sourav Roy\Desktop\Workspace\TALEND_CODE_Q_SRV\main.py
+Step 1 : start C:\Users\userX\Python.exe C:\Users\userX\Desktop\Workspace\TALEND_CODE_Q_SRV\main.py
 Step 2 : Open the Task Scheduler and click on the Task Scheduler Library to see the current tasks that are executed. Click on the Create Task option.
 Step 3 : In the General tab, put the name of your new task and click on the option Run whether user is logged on or not, check the option Run with highest privileges and make sure to setup the appropriate version of you OS (in my case I picked Windows 7, Windows Server 2008 R2.
 Step 4: In the Actions tab, click on the New button and type in the following:
