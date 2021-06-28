@@ -1,0 +1,2 @@
+Component_Name,field,name,show,value,JOB_NAME
+tFileOutputDelimited,CHECK,APPEND,,true,talend_code_quality_toolkit_0.1
