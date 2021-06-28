@@ -53,7 +53,7 @@ Talend Validation Toolkit has serveral maven modules for the parent project. The
 ### Module: Talend-quality-control
 talend-validation-util is the main artifact of the talend-validation-toolkit which consists of validation logics and validation configurations. Validation configurations are defined in CSV format in resource directory (config/Configurations.csv). Validation rules(config/Rulebook.csv) CSV template as follows;
 
-##### CSV Template:
+##### Rule Book Template:
 ````
 Name,Rule
 tFileInputDelimited,CSV_OPTION
