@@ -1,4 +1,6 @@
 # Talend-quality-control-framework
+Official Talend Community Thread- https://community.talend.com/s/feed/0D55b00006DyNrLCAV
+
 > Talend Quality Control Framework is an automated code analysis tool to motivate Talend developers and ETL Testers to design Talend Projects that adheres to a Strong and Solid coding standard. It automates the process of checking Talend components for validation rules such as if CHECK_PROXY, TRIM_ALL has been implemented or not? and spare us humans from this boring (but important) task. Talend Quality Control Framework is ideal for Talend projects that want to enforce coding standards.
 > This is a Universal Plug & Play Testing Framework, just configure and Play.
 
